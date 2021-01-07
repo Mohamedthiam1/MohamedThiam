@@ -1,0 +1,54 @@
+body
+{
+
+    background-color : #CACFD2 ;
+    text-align : center ;
+}
+.header
+{
+    margin-top : 30px;
+    font-size : 50px;
+}
+.bande1
+{
+    background-color : #3498DB;
+    font-size : 30px ;
+    text-align : center ;
+    font-family : cursive ;
+    margin-left: -1500px;
+    margin-right: -1500px;
+    padding-right : 5px;
+    padding-left : 5px;
+    border-style: solid;
+    margin-top : 30px;
+    border-radius : 10px;
+    display : inline-block ;
+}
+
+.image2
+{
+    width : 400px;
+    margin-left : -1100px;
+    border-style : groove;
+    border-color :#5DADE2;
+    margin-top : -30px;
+    border-radius : 50px;
+}
+
+.trait
+{
+    width : 900px;
+}
+.paragraphe
+{
+    margin-top : -520px;
+    width : 600px;
+    font-size:32px;
+    word-spacing : 2px;
+    font-family : Snell Roundhand, cursive    ;
+    margin-left:800px;
+}
+.trait2
+{
+    width : 600px;
+}
